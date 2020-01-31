@@ -1,4 +1,4 @@
-# ChiSquareTestForIndipendence
+# ChiSquareTestForIndependence
 
 ## How to run
 You can execute the application in two ways:  
